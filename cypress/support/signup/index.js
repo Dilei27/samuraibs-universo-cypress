@@ -1,7 +1,7 @@
 
 import { el } from './elements'
 
-import toast from '../../components/toast'
+import toast from '../components/toast'
 
 class SignupPage {
 
